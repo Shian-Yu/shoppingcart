@@ -58,7 +58,7 @@ export default {
     </form>
     <div class="flex justify-between px-5 pb-3">
       <PublicBtn :link="'/shoppingcart'" :style="'bg-rose-600'" :content="'回上頁繼續加購'"></PublicBtn>
-      <PublicBtn :link="'/shoppingcheck'" :style="'bg-blue-800'" :content="'確認送出'"></PublicBtn>
+      <PublicBtn :link="'/buysuccess'" :style="'bg-blue-800'" :content="'確認送出'"></PublicBtn>
     </div>
   </div>
 
