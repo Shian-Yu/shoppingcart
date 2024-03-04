@@ -26,7 +26,7 @@
         <div class="grid grid-cols-6 w-11/12 m-auto justify-center p-2 border-b gap-2 mb-5 break-words">
             <div>AAA</div>
             <div>0912345678</div>
-            <div>AAAAAAAAAAAAAAAAAAAAAAAAAAAA</div>
+            <div>六千牛肉湯排了2個小時不好吃</div>
             <div>多花一點</div>
             <div>qiwqjdsai222@gmail.com</div>
             <div>請搬上樓</div>
