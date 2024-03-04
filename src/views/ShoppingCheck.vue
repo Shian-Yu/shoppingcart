@@ -50,8 +50,12 @@
         <div class="text-2xl">商品總金額: $0</div>
       </div>
       <div class="flex justify-between px-5">
-        <button class="bg-rose-600 p-2 rounded-lg">回上頁繼續加購</button>
-        <button class="bg-blue-800 text-white p-2 rounded-lg">確認送出</button>
+        <RouterLink to="/shoppingcart">
+          <button class="bg-rose-600 p-2 rounded-lg">回上頁繼續加購</button>
+        </RouterLink>
+        <RouterLink to="/buysuccess">
+          <button class="bg-blue-800 text-white p-2 rounded-lg">確認送出</button>
+        </RouterLink>
       </div>
     </div>
   

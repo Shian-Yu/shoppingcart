@@ -11,10 +11,12 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/shoppingcheck">ShoppingCheck</RouterLink>
         <RouterLink to="/buysuccess">BuySuccess</RouterLink>
       </div>
-      <i class="fa-solid fa-cart-shopping relative">
-        <span
-          class="absolute flex bg-red-500 w-[20px] h-[20px] text-base rounded-full -top-2 -left-2 justify-center items-center">1</span>
-      </i>
+      <RouterLink to="/shoppingcart">
+        <i class="fa-solid fa-cart-shopping relative">
+          <span
+            class="absolute flex bg-red-500 w-[20px] h-[20px] text-base rounded-full -top-2 -left-2 justify-center items-center">1</span>
+        </i>
+      </RouterLink>
     </nav>
   </header>
 

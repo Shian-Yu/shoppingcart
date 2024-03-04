@@ -32,7 +32,9 @@
             <div>請搬上樓</div>
         </div>
     </div>
-    <button class="w-full bg-blue-800 text-white rounded-md">回首頁</button>
+    <RouterLink to="/">
+        <button class="w-full bg-blue-800 text-white rounded-md">回首頁</button>
+    </RouterLink>
 </template>
 
 <style></style>

@@ -53,7 +53,7 @@
             <input type="number" class="w-2/4 border text-center" value="1">
             <button class="w-1/4 border rounded-r-3xl">+</button>
           </div>
-          <div class="text-center bg-blue-300 text-white rounded-3xl"><i class="fa-solid fa-cart-shopping relative"></i>加入購物車</div>
+          <div class="text-center bg-blue-300 text-white rounded-3xl text-sm"><i class="fa-solid fa-cart-shopping relative"></i>加入購物車</div>
         </div>
         <div></div>
       </div>
